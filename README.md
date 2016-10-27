@@ -1,4 +1,4 @@
 # Assets
 
-This repo consists of ICCRG specific assets (image, logo, etc)
+This repo consists of WIRG specific assets (image, logo, etc)
 
